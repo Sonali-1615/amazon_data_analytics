@@ -1,2 +1,2 @@
 # Data-Analytics-Projects
-Explore a collection of end-to-end data analytics projects showcasing SQL, Python, and Power BI. Gain valuable insights and solutions to real-world problems through data extraction, analysis, and visualization. Ideal for beginners and professionals looking to enhance their skills in data analytics.
+Amazon Data Analytics Portfolio – Developed multiple end-to-end analytics pipelines using SQL for data extraction, Python for cleaning, transformation, and exploratory data analysis, and Power BI for dynamic dashboarding. Demonstrated real-world problem solving through data-driven insights and visual storytelling.
